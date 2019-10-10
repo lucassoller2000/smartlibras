@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Libras</string>
+    <string name="hint">Digite um texto...</string>
+    <string name="send">Enviar</string>
+    <string name="checkbox">S</string>
+    <string name="channel_name">canal</string>
+    <string name="channel_description">canal de chat</string>
+    <string name="message_title">Alguém respondeu você</string>
+    <string name="message_image">Clique para ver a imagem</string>
+    <string name="new_message"> novas mensagens</string>
+</resources>
